@@ -1,0 +1,22 @@
+#section{
+    margin: 50px;
+    padding: 10px;
+}
+#section img{
+    width: 50px;
+    height: auto;
+    border-radius: 50px;
+    margin: 10px;
+}
+#section input{
+    border-radius: 50px;
+    border-color: aqua;
+    text-align: center;
+    
+}
+ #section button{
+    background-color: rgb(27, 27, 225);
+    color: white;
+    box-shadow: 10px 5px 5px red;
+    cursor: pointer;
+ }

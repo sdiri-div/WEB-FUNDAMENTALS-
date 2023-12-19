@@ -1,0 +1,33 @@
+*{
+    margin: auto;
+    padding: 0px;
+}
+#section{
+  margin: 15px;
+  padding: 5px;
+  overflow:auto;
+
+}
+#section h1{
+background-color: black;
+color: white;
+  margin: 5px;
+
+}
+#section h1 span{
+    color: aqua;
+}
+#section h2{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-style: italic;
+   margin: 5px;
+}
+#section h3{
+    background-color: #AEE2FF;
+    text-align: right;
+    text-decoration:underline;
+  margin: 5px;
+  padding-right: 10px;
+}

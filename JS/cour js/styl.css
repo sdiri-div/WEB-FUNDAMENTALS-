@@ -1,0 +1,97 @@
+*{
+
+}
+#container{
+    width: 900px;
+    margin: auto;
+}
+#header{
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.left{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.left img{
+  width: 20px;
+  height: 20px;
+  margin-top: 30px;
+  background-color: bisque;
+
+}
+
+.left span{
+    color: white;
+}
+.rghit{
+    display: flex;
+    justify-content: space-between;
+}
+.rghit button{
+ width: 80px;
+ height: 25px;
+ margin-top: 40px;
+ padding: 4px;
+ cursor: pointer;
+}
+.bg button{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+#footer img{
+ width: 200px;
+}
+.p1{display: flex;
+justify-content: space-between;
+}
+#footer p{
+    align-items: center;
+}
+.p1 button{
+    width: 60px;
+    height: 20px;
+    margin-top: 20px;
+    padding: 2px;
+    cursor: pointer;
+}
+#footer1{
+    background-color: blanchedalmond;
+    border: 2px solid royalblue;
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+#footer2{
+    background-color: bisque;
+    border: 2px solid royalblue;
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+    
+
+#batoom{
+    background-color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: solid blue 2px;
+    padding: 3px;
+    display: flex;
+}
+#batoom button{
+    background-color: blueviolet;
+    color: white;
+    box-shadow: 3px 9px 9px rgb(36, 30, 42);
+    cursor: pointer;
+    display: flex;
+    height: 30px;
+    margin: 10px;
+}
+

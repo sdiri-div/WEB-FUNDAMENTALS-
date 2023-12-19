@@ -1,0 +1,75 @@
+*{
+    padding: 0px;
+}
+#container{
+    width: 900px;
+    margin: auto;
+    border: solid black;
+    padding: 3px 30px 30px 20px;
+}
+#header{
+    background-color: rgb(204, 204, 204);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+font-style:italic;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#header input {
+width: 500px;
+height: 30px;
+}
+#header button{
+    background-color:rgb(43, 120, 228);
+    color: white;
+    margin: 20px;
+    width: 100px;
+    height: 30px;
+    box-shadow: 3px 4px 4px black;
+}
+#main{
+ margin: 20px;
+ width: 600px;
+}
+#main p{
+    font-style: italic;
+}
+#main button{
+    background-color: rgb(255, 217, 102);
+    color: black;
+    padding: 6px;
+    
+}
+#span{
+    border: solid black ;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+}
+#sours{
+    border: solid black;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+}
+#project{
+    display:flex;
+    justify-content:space-between;
+}
+#form{
+    border: solid black;
+    height: 150px;
+    margin-top: 35px;
+    padding: 10px;
+    padding-bottom: 30px;
+}
+#form button{
+    width: 300px;
+    height: 40px;
+    background-color:rgb(147, 196, 125) ;
+}
+#form p{
+    font-size: 30px;
+}

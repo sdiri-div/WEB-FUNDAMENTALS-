@@ -1,0 +1,108 @@
+*{
+
+}
+#container{
+    width: 900px;
+    margin: auto;
+    
+}
+#mm{
+    overflow: auto;
+}
+#header{
+    background-color: rgb(17, 155, 159);
+   
+    padding: 30px;
+}
+#header img{
+    color: white;
+
+}
+#top-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    
+    
+}
+#batoom-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+   
+}
+#header img{
+width: 30px;
+}
+#with{
+    width: 900px;
+    margin: auto;
+}
+#header h1{
+ color: white;
+}
+#header h5{
+    color: white;
+}
+.right1 button{
+   background-color:  rgb(105, 48, 159);
+   color: white;
+   box-shadow: 3px 2px black;
+   cursor: pointer;
+}
+.find1 img{
+    width: 170px;
+}
+#footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(238, 238, 238);
+    margin: 20px;
+}
+#footer button{
+    color: white;
+    background-color:rgb(23, 206, 209) ;
+    padding: 5px;
+    width: 200px;
+    box-shadow: 3px 2px black;
+    cursor: pointer;
+}
+#footer1{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(221, 221, 221);
+    margin: 20px;
+}
+#footer1 button{
+    color: white;
+    background-color:rgb(23, 206, 209) ;
+    padding: 5px;
+    width: 200px;
+    box-shadow: 3px 2px black;
+    cursor: pointer;
+}
+.find4 img{
+    width: 170px;
+}
+#footer2{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(238, 238, 238);
+    margin: 20px;
+}
+#footer2 button{
+    color: white;
+    background-color:rgb(23, 206, 209) ;
+    padding: 5px;
+    width: 200px;
+    box-shadow: 3px 2px black;
+    cursor: pointer;
+}
+.tip1 img{
+    width: 170px;
+}
+   #ok button{
+    color: rgb(130, 94, 173);
+    box-shadow: 3px 2px black;
+    cursor: pointer;
+   } 
